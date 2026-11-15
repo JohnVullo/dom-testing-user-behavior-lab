@@ -8,6 +8,7 @@ const path = require("path")
 //Adds addElementToDOM function to be used inside of this test
 const { addElementToDOM } = require("../index.js")
 
+//Adds removeElementToDom function to be used inside of this test
 const { removeElementFromDOM } = require("../index.js")
 
 //Load the HTML file into jsdom 
